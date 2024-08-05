@@ -18,6 +18,7 @@
     <modules>
         <module>Spring-Boot-Mock-Data-App</module>
         <module>Section-01-JDK-Installation</module>
+        <module>Section-02-IntelliJ-Installation</module>
     </modules>
 
     <properties>
