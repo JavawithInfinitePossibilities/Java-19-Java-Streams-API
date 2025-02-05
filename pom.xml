@@ -19,6 +19,9 @@
         <module>Spring-Boot-Mock-Data-App</module>
         <module>Section-01-JDK-Installation</module>
         <module>Section-02-IntelliJ-Installation</module>
+        <module>Section-03-Setting-up-JDK-with-IntelliJ-and-running-all-tests</module>
+        <module>Section-04-Code-base-walkthrough-and-git-branches</module>
+        <module>Section-05-Intro-to-Java-Stream-API-KEYNOTE</module>
     </modules>
 
     <properties>
