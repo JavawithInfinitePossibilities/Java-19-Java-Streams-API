@@ -22,6 +22,8 @@
         <module>Section-03-Setting-up-JDK-with-IntelliJ-and-running-all-tests</module>
         <module>Section-04-Code-base-walkthrough-and-git-branches</module>
         <module>Section-05-Intro-to-Java-Stream-API-KEYNOTE</module>
+        <module>Section-06-Imperative-approach-solution</module>
+        <module>Section-07-Declarative-Functional-approach</module>
     </modules>
 
     <properties>
