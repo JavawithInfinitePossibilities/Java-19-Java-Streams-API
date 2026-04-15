@@ -24,6 +24,31 @@
         <module>Section-05-Intro-to-Java-Stream-API-KEYNOTE</module>
         <module>Section-06-Imperative-approach-solution</module>
         <module>Section-07-Declarative-Functional-approach</module>
+        <module>Section-08-Java-Streams-pipeline</module>
+        <module>Section-09-IntStreams_range_rangeClosed</module>
+        <module>Section-10-Iterating-Lists-with-IntStream-Exercise-Solution</module>
+        <module>Section-11-IntStream-iterate</module>
+        <module>Section-12-Stream-min-Comparators</module>
+        <module>Section-13-Finding-the-max-number-Solution</module>
+        <module>Section-14-Stream-distinct</module>
+        <module>Section-15-Collecting-to-Sets</module>
+        <module>Section-16-Filtering-with-Streams</module>
+        <module>Section-17-Transformations-with-Stream-map</module>
+        <module>Section-18-Mapping-to-Doubles-Exercise-Solution</module>
+        <module>Section-19-Stream-findAny</module>
+        <module>Section-20-Stream-findFirst</module>
+        <module>Section-21-The-difference-between-findAny-and-findFirst</module>
+        <module>Section-22-Count</module>
+        <module>Section-23-Min-Max-without-comparators</module>
+        <module>Section-24-Averages</module>
+        <module>Section-25-Sum-Exercise-Solution</module>
+        <module>Section-26-Statistics-with-streams</module>
+        <module>Section-27-Grouping-by</module>
+        <module>Section-28-Counting</module>
+        <module>Section-29-Reduce</module>
+        <module>Section-30-Flatmap</module>
+        <module>Section-31-32-Streams-joining</module>
+        <module>Section-33-Understanding-Stream-collect</module>
     </modules>
 
     <properties>

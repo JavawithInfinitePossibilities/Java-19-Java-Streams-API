@@ -8,6 +8,31 @@
     <file url="file://$PROJECT_DIR$/Section-05-Intro-to-Java-Stream-API-KEYNOTE/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section-06-Imperative-approach-solution/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Section-07-Declarative-Functional-approach/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-08-Java-Streams-pipeline/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-09-IntStreams_range_rangeClosed/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-10-Iterating-Lists-with-IntStream-Exercise-Solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-11-IntStream-iterate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-12-Stream-min-Comparators/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-13-Finding-the-max-number-Solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-14-Stream-distinct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-15-Collecting-to-Sets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-16-Filtering-with-Streams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-17-Transformations-with-Stream-map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-18-Mapping-to-Doubles-Exercise-Solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-19-Stream-findAny/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-20-Stream-findFirst/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-21-The-difference-between-findAny-and-findFirst/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-22-Count/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-23-Min-Max-without-comparators/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-24-Averages/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-25-Sum-Exercise-Solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-26-Statistics-with-streams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-27-Grouping-by/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-28-Counting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-29-Reduce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-30-Flatmap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-31-32-Streams-joining/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section-33-Understanding-Stream-collect/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Boot-Mock-Data-App/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
